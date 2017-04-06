@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+}
+
+.calc-body {
+  margin-left: 30%;
+  margin-top: 9%;
+  margin-bottom: 9%;
+  padding-bottom: 1.5%;
+  height: 60%;
+  width: 40%;
+  border-color: black;
+  border-style: solid;
+
+}
+
+.visual {
+  text-align: right;
+  height: 90%;
+}
+.calc-display {
+  height: 29%;
+  background-color: #b8c3d6;
+}
+
+.button-grid {
+  height: 70%;
+  width: 99%;
+}
+
+.num-button {
+  width: 24%;
+  height: 20%;
+}
+
+.num-zero {
+  width: 74%;
+  height: 20%;
+}
+
+.num-equals {
+  height: 20%;
+  width: 24%;
+}
